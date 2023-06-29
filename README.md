@@ -3,13 +3,13 @@
 漢字セイバーのセットアップ方法を記述します．
 
 ## Unityのインストール
-- [ここ](https://unity.com/ja/download){:target="_blank"}からUnityをインストール．  
+- [ここ](https://unity.com/ja/download)からUnityをインストール．
 - OSとUnityのバージョンは以下の通りです．
 
 | 番号 | アイテム       | 説明    |
 |:--:| ---------- |----------------|
 | 1  | OS         | Windows10    |
-| 2  | Unity      | [Unity 2020.3.26f1](https://unity.com/releases/editor/whats-new/2020.3.26){:target="_blank"} |
+| 2  | Unity      | [Unity 2020.3.26f1](https://unity.com/releases/editor/whats-new/2020.3.26) |
 
 ## 漢字セイバープロジェクトの作成方法  
 
@@ -27,11 +27,11 @@
 
 ### VOICE VOXのインストール
 
-- 動物やナレーションの声を作成してくれる[VOICEVOX](https://voicevox.hiroshiba.jp/){:target="_blank"}というアプリをインストールします.  
+- 動物やナレーションの声を作成してくれる[VOICEVOX](https://voicevox.hiroshiba.jp/)というアプリをインストールします.  
 - 画像のように選択してインストールしてください．  
 ![スクリーンショット 2023-06-29 185217](https://github.com/apparettedare/Kanji-Saber/assets/87752284/fa47630b-595d-4c7a-9b7d-d00ac59f02f8)
 - ファイルを開き，run.exeを起動する．
-- [このリンク](http://localhost:50021/docs){:target="_blank"}がブラウザで表示できることを確認してください．
+- [このリンク](http://localhost:50021/docs)がブラウザで表示できることを確認してください．
 - 漢字セイバーを起動するときは必ずrun.exeも起動しておいてください.
 最後に何もエラーが起こっていないことを確認してTitleシーンを選択し再生ボタンを押してください．  
 ## 問題作成方法
