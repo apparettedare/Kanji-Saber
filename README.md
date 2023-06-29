@@ -37,7 +37,7 @@
 ## 問題作成方法
 - KanjiConfigフォルダーの中にKanjiConfig.json, QuestionInfo.json, KanjiImageフォルダーの三つの要素があります．
 - KanjiConfig.jsonのmaxNumberOfQuestionには問題数を入力してください.
-- QuestionInfo01.json, QestionInfo02.jsonのようにQustionInfo + 二桁の整数 + .jsonという名前にしてQuestion.jsonファイルを作成してください．
+- QuestionInfo01.json, QestionInfo02.jsonのようにQustionInfo + 二桁の整数 + .jsonという名前にしてQuestionInfo.jsonファイルを作成してください．
     - quiz_text: 問題にしたい漢字
     - part_text: 問題にしたい漢字の部首
     - answer_text: 問題の答えとなる漢字
@@ -45,6 +45,6 @@
     - dummy2_text: 問題の答えにならない漢字
     - ○○○○_kanji:  それぞれひらがなで入力していたものを漢字で入力
 - KanjiImageフォルダーの中にImage01, Image02のようにフォルダーを作成し，その中にQuestionInfo.jsonファイルで定義した漢字と対応するイメージを入れてください．
-- Imageのなかの名前はそれぞれの漢字の名前（ひらがな）と対応するようにしてください．
+- Imageの中に入るファイルの名前はそれぞれの漢字の名前（ひらがな）と対応するようにしてください．
     - 動画ファイルの拡張子はm4v
     - 画像ファイルの拡張子はjpg
