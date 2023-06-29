@@ -37,7 +37,7 @@
 ## 問題作成方法
 - KanjiConfigフォルダーの中にKanjiConfig.json, QuestionInfo.json, KanjiImageフォルダーの三つの要素があります．
 - KanjiConfig.jsonのmaxNumberOfQuestionには問題数を入力してください.
-- QuestionInfo01.json, Qestion02.jsonのようにQustionInfo + 二桁の整数 + .jsonという名前にしてQuestion.jsonファイルを作成してください．
+- QuestionInfo01.json, QestionInfo02.jsonのようにQustionInfo + 二桁の整数 + .jsonという名前にしてQuestion.jsonファイルを作成してください．
     - quiz_text: 問題にしたい漢字
     - part_text: 問題にしたい漢字の部首
     - answer_text: 問題の答えとなる漢字
