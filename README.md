@@ -1,21 +1,16 @@
-# Handyman Project
+# 漢字セイバーのセットアップ
 
-This is a Unity project for the competition of Handyman task of the RoboCup@Home Simulation.
+漢字セイバーのセットアップ方法を記述します．
 
-Please prepare a common unitypackage in advance, and import the unitypackage to this project.  
-For details of using the common unitypackage, please see an introduction in the following repository.
-https://github.com/RoboCupatHomeSim/common-unity.git
+## Unityのインストール
+[ここ](https://unity.com/ja/download)からUnityをインストール．  
+OSとUnityのバージョンは以下の通りです．  
+| 番号 | アイテム       | 説明    |
+|:--:| ---------- |----------------|
+| 1  | OS         | Windows10    |
+| 2  | Unity      | [Unity 2020.3.26f1](https://unity.com/releases/editor/whats-new/2020.3.26) |
 
-See also [wiki page](https://github.com/RoboCupatHomeSim/handyman-unity/wiki).
-
-## Prerequisites
-
-Same as below for OS and Unity version.
-https://github.com/RoboCupatHomeSim/documents/blob/master/SoftwareManual/Environment.md#windows-pc
-
-## How to Build
-
-### Import the common Unitypackage
+## 漢字セイバープロジェクトの作成方法  
 
 1. Open this project with Unity.
 1. Click [**Ignore**] in the [Enter Safe Mode?] window.
@@ -27,7 +22,7 @@ https://github.com/RoboCupatHomeSim/documents/blob/master/SoftwareManual/Environ
 1. Please confirm that no error occurred in Console window.
 
 
-### Import Executable file and Dll for TTS
+### VOICE VOXのインストール
 
 If you want to output speech, please do the following two steps.
 
