@@ -47,5 +47,5 @@
 - KanjiImageフォルダーの中にImage01, Image02のようにフォルダーを作成し，その中にQuestionInfo.jsonファイルで定義した漢字と対応するイメージを入れてください．
 - Imageの中に入るファイルの名前はそれぞれの漢字の名前（ひらがな）と対応するようにしてください．
     - 動画ファイルの拡張子はm4v
-    - 画像ファイルの拡張子はjpg
--[参考](http://www3.u-toyama.ac.jp/raicho/textbook/) 
+    - 画像ファイルの拡張子はjpg  
+- [参考](http://www3.u-toyama.ac.jp/raicho/textbook/) 
